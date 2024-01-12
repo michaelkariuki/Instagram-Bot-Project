@@ -1,6 +1,7 @@
 # Instagram Bot with InstaPy
 
-![InstaPy Logo](https://github.com/timgrossmann/InstaPy/raw/master/assets/logo.png)
+<img src="https://camo.githubusercontent.com/03d841d0685e742963cd00919d1e5fa8b27841c4d3f8c8789cb27de1f8b1b36c/68747470733a2f2f692e696d6775722e636f6d2f734a7a665a734c2e6a7067" width="250px" height="250px">
+
 
 ## Introduction
 
