@@ -1,0 +1,398 @@
+1601027682003	geckodriver	INFO	Listening on 127.0.0.1:57124
+1601027685042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kariuki\\AppData\\Local\\Temp\\rust_mozprofilerceqMR"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1601027692028	Marionette	INFO	Listening on port 57133
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+1601027692379	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601027700048	Marionette	INFO	Stopped listening on port 57133
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601027934994	geckodriver	INFO	Listening on 127.0.0.1:57659
+1601027938044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kariuki\\AppData\\Local\\Temp\\rust_mozprofile9b9NoA"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+1601027944800	Marionette	INFO	Listening on port 57669
+1601027944904	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601027955736	Marionette	INFO	Stopped listening on port 57669
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601028333057	geckodriver	INFO	Listening on 127.0.0.1:58662
+1601028336087	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kariuki\\AppData\\Local\\Temp\\rust_mozprofilelmPJZH"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1601028341686	Marionette	INFO	Listening on port 58674
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+1601028341835	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.child2/accessible246 from: server0.conn0.child2/accessible246", "resource://devtools/shared/protocol/Front.js", 341))
+console.warn: (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.child2/accessible246 from: server0.conn0.child2/accessible246", "resource://devtools/shared/protocol/Front.js", 341))
+console.warn: (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.child2/accessible246 from: server0.conn0.child2/accessible246", "resource://devtools/shared/protocol/Front.js", 341))
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1601028815472	Marionette	INFO	Stopped listening on port 58674
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ata\\Local\\Temp\\rust_mozprofileMFI88V"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1601028604657	Marionette	INFO	Listening on port 58912
+1601028604736	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+1601028803506	Marionette	INFO	Stopped listening on port 58912
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601029029875	geckodriver	INFO	Listening on 127.0.0.1:59253
+1601029032940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kariuki\\AppData\\Local\\Temp\\rust_mozprofilegY1MUU"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+1601029038533	Marionette	INFO	Listening on port 59265
+1601029038999	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+[Parent 5916, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1601029142510	Marionette	INFO	Stopped listening on port 59265
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601029150772	geckodriver	INFO	Listening on 127.0.0.1:59423
+1601029153835	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kariuki\\AppData\\Local\\Temp\\rust_mozprofileCoXyNR"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1601029159149	Marionette	INFO	Listening on port 59432
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+1601029159315	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 5272, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+1601029176826	Marionette	INFO	Stopped listening on port 59432
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601029727405	geckodriver	INFO	Listening on 127.0.0.1:59911
+1601029730433	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kariuki\\AppData\\Local\\Temp\\rust_mozprofileIY9f4m"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1601029735802	Marionette	INFO	Listening on port 59919
+1601029735926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+1601029767747	Marionette	INFO	Stopped listening on port 59919
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601029827208	geckodriver	INFO	Listening on 127.0.0.1:60085
+1601029830236	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kariuki\\AppData\\Local\\Temp\\rust_mozprofile5OUu48"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1601029835374	Marionette	INFO	Listening on port 60094
+1601029835697	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1601029932870	Marionette	INFO	Stopped listening on port 60094
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601029948878	geckodriver	INFO	Listening on 127.0.0.1:60291
+1601029951907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kariuki\\AppData\\Local\\Temp\\rust_mozprofile0mvoMn"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1601029957376	Marionette	INFO	Listening on port 60303
+1601029957466	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+1601029973334	Marionette	INFO	Stopped listening on port 60303
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 15392, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601030751579	geckodriver	INFO	Listening on 127.0.0.1:61293
+1601030754656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kariuki\\AppData\\Local\\Temp\\rust_mozprofileeUNS9j"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1601030760607	Marionette	INFO	Listening on port 61301
+1601030760760	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000E,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1601030894677	Marionette	INFO	Stopped listening on port 61301
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601030900813	geckodriver	INFO	Listening on 127.0.0.1:61445
+1601030903841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kariuki\\AppData\\Local\\Temp\\rust_mozprofileuBuXyh"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1601030909544	Marionette	INFO	Listening on port 61455
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+1601030909705	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1601030947346	Marionette	INFO	Stopped listening on port 61455
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601030951972	geckodriver	INFO	Listening on 127.0.0.1:61533
+1601030955005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kariuki\\AppData\\Local\\Temp\\rust_mozprofileIB4g3k"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1601030960246	Marionette	INFO	Listening on port 61542
+1601030960500	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+1601030969162	Marionette	INFO	Stopped listening on port 61542
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601034963977	geckodriver	INFO	Listening on 127.0.0.1:50315
+1601034967009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kariuki\\AppData\\Local\\Temp\\rust_mozprofileghAAAG"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1601034972943	Marionette	INFO	Listening on port 50323
+1601034973076	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+1601034993475	Marionette	INFO	Stopped listening on port 50323
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601035019380	geckodriver	INFO	Listening on 127.0.0.1:50417
+1601035022404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kariuki\\AppData\\Local\\Temp\\rust_mozprofileg1AZKQ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1601035029048	Marionette	INFO	Listening on port 50425
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+1601035029528	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601035049860	Marionette	INFO	Stopped listening on port 50425
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601035101543	geckodriver	INFO	Listening on 127.0.0.1:50567
+1601035104568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kariuki\\AppData\\Local\\Temp\\rust_mozprofiletSQjCH"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1601035110843	Marionette	INFO	Listening on port 50577
+1601035111083	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+1601035352413	Marionette	INFO	Stopped listening on port 50577
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601035468974	geckodriver	INFO	Listening on 127.0.0.1:50893
+1601035472010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kariuki\\AppData\\Local\\Temp\\rust_mozprofileuhxAfj"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1601035477574	Marionette	INFO	Listening on port 50904
+1601035477662	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+1601035501337	Marionette	INFO	Stopped listening on port 50904
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 11896, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601035523031	geckodriver	INFO	Listening on 127.0.0.1:51005
+1601035526056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kariuki\\AppData\\Local\\Temp\\rust_mozprofile0GNs0U"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+1601035533471	Marionette	INFO	Listening on port 51015
+1601035533623	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1601035550559	Marionette	INFO	Stopped listening on port 51015
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601035606606	geckodriver	INFO	Listening on 127.0.0.1:51159
+1601035609637	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kariuki\\AppData\\Local\\Temp\\rust_mozprofileKAUrI6"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1601035614984	Marionette	INFO	Listening on port 51169
+1601035615100	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+1601035640920	Marionette	INFO	Stopped listening on port 51169
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601808260227	geckodriver	INFO	Listening on 127.0.0.1:64211
+1601808263286	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kariuki\\AppData\\Local\\Temp\\rust_mozprofileEUYDvW"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1601808269624	Marionette	INFO	Listening on port 64222
+1601808269889	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601808277983	Marionette	INFO	Stopped listening on port 64222
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

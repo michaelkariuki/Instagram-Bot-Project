@@ -1,0 +1,11 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+Pipfile.lock
+.env
+.vscode/
+insta_pyBot/
